@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Plataforma de Reclutamiento Industrial",
+  "description": "Una plataforma web completa para gestionar el reclutamiento industrial, con roles para administradores, clientes y trabajadores. Incluye gestión de proyectos, validación de candidatos y dashboards con reportes gráficos.",
+  "requestFramePermissions": []
+}
